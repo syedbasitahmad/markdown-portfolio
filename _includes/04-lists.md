@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Mumbai
+- Pune
+- Chennai
+* patna
+* bihar
+1. India
+2. Nepal
